@@ -1,4 +1,14 @@
- ### Olá, meu nome é Rene ✌️
+<div align="center">
+    <p><h3>Olá, meu nome é Rene ✌️</h2><p>
+    <hr>
+    <p><h5>Bem vindo ao meu perfil no GitHub<h5></p>
+</div>
+ 
+<div align="left">
+  <p><h5>Sobre Mim👨‍💻</h6><p>
+    
+  <p>Meu nome é Rene, estudante de análise e desenvolvimento de sistemas no terceiro semestre. Estou em busca de uma primeira oportunidade de trabalho na área, com o objetivo de me aperfeiçoar e me tornar um Desenvolvedor Full Stack. Sou apaixonado por programação e estou constantemente buscando aprender e me atualizar em novas tecnologias. Estou animado para colaborar em projetos e contribuir para a comunidade de desenvolvedores.<p>
+</div>
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rene-battaglia-158b2424b/)
