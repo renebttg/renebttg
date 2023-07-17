@@ -1,11 +1,11 @@
-<div align="center">
-    <p><h3>Olá, meu nome é Rene ✌️</h2><p>
+ <div align="center">
+    <p><h2>Olá, meu nome é Rene ✌️</h2><p>
     <hr>
-    <p><h5>Bem vindo ao meu perfil no GitHub<h5></p>
+    <p><h3>Bem vindo ao meu perfil no GitHub<h3></p>
 </div>
  
 <div align="left">
-  <p><h5>Sobre Mim👨‍💻</h6><p>
+  <p><h3>Sobre Mim👨‍💻</h3><p>
     
   <p>Meu nome é Rene, estudante de análise e desenvolvimento de sistemas no terceiro semestre. Estou em busca de uma primeira oportunidade de trabalho na área, com o objetivo de me aperfeiçoar e me tornar um Desenvolvedor Full Stack. Sou apaixonado por programação e estou constantemente buscando aprender e me atualizar em novas tecnologias. Estou animado para colaborar em projetos e contribuir para a comunidade de desenvolvedores.<p>
 </div>
