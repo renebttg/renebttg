@@ -7,7 +7,7 @@
 <div align="left">
   <p><h3>Sobre Mim👨‍💻</h3><p>
     
-  <p>Rene, estudante de Análise e Desenvolvimento de Sistemas atualmente no terceiro semestre. Estou em busca de uma primeira oportunidade de trabalho na área, com o objetivo de me aperfeiçoar e me tornar um Desenvolvedor Full Stack. Sou apaixonado por programação e estou constantemente buscando aprender e me atualizar em novas tecnologias. Estou animado para colaborar em projetos e contribuir para a comunidade de desenvolvedores.<p>
+  <p>Meu nome é Rene e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre. Estou em busca de uma primeira oportunidade de trabalho na área, com o objetivo de me aperfeiçoar e me tornar um Desenvolvedor Full Stack. Sou apaixonado por programação e estou constantemente buscando aprender e me atualizar em novas tecnologias. Estou animado para colaborar em projetos e contribuir para a comunidade de desenvolvedores.<p>
 </div>
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
