@@ -3,7 +3,6 @@
     <hr>
     <h3>Bem vindo ao meu perfil no GitHub<h3>
 
-<p align="center"> <img src="img/highlight.png" alt="Rene Battaglia" /> <p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=renebttg&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Rene Battaglia" /> <p>
 
