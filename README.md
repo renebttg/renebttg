@@ -4,7 +4,7 @@
     <h3>Bem vindo ao meu perfil no GitHub<h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=renebttg&color=00ffff&style=for-the-badge&abbreviated=true" alt="Rene Battaglia" /> <p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=renebttg&color=002663&style=for-the-badge&abbreviated=true" alt="Rene Battaglia" /> <p>
 
 
 
