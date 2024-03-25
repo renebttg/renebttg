@@ -19,7 +19,11 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-battaglia/)
 
  ![Rene GitHub stats](https://github-readme-stats.vercel.app/api?username=renebttg&show_icons=true&theme=dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renebttg&theme=dark)
 
+
+
+ 
  ### Tecnologias que eu uso 👇
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
