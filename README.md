@@ -1,30 +1,39 @@
- <div align="center">
-    <h2>Olá, meu nome é Rene ✌️</h2>
-    <hr>
-    <h3>Bem vindo ao meu perfil no GitHub<h3>
+<div align="center">
+  <h2>Olá, meu nome é Rene ✌️</h2>
+  <hr>
+  <h3>Bem-vindo ao meu perfil no GitHub</h3>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=renebttg&color=002663&style=for-the-badge&abbreviated=true" alt="Rene Battaglia" /> <p>
-
-
-
+  <p><img src="https://komarev.com/ghpvc/?username=renebttg&color=002663&style=for-the-badge&abbreviated=true" alt="Rene Battaglia" /></p>
 </div>
- 
+
 <div align="left">
-  <h3>Sobre Mim👨‍💻</h3>
-    
-  <p>Meu nome é Rene e sou formado em Análise e Desenvolvimento de Sistemas. Estou em busca de uma primeira oportunidade de trabalho na área, com o objetivo de me aperfeiçoar e me tornar um Desenvolvedor Back-End. Sou apaixonado por programação e estou constantemente buscando aprender e me atualizar em novas tecnologias. Estou animado para colaborar em projetos e contribuir para a comunidade de desenvolvedores.<p>
+  <h3>👨‍💻 Sobre Mim</h3>
+  <p>
+    Meu nome é Rene Battaglia e atualmente trabalho como Desenvolvedor Júnior e Engenheiro de Dados. Tenho experiência em integrações de sistemas, manipulação de dados e desenvolvimento de APIs, principalmente com Java e Spring Boot. Sou apaixonado por programação e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Estou animado para colaborar em projetos desafiadores e contribuir para a comunidade de desenvolvedores.
+  </p>
 </div>
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rene-battaglia/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/rene-battaglia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
- ![Rene GitHub stats](https://github-readme-stats.vercel.app/api?username=renebttg&show_icons=true&theme=dark)
- 
+<div align="center">
+  <h3>📊 Estatísticas</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=renebttg&show_icons=true&theme=dark" alt="Rene GitHub stats" />
+</div>
 
-
- 
- ### Tecnologias que eu uso 👇
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
+<h3>🚀 Tecnologias que eu uso</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</div>
