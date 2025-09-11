@@ -131,8 +131,6 @@ public class ReneBattaglia {
 
 ---
 
-## 📈 Contribuições
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renebttg/renebttg/output/github-contribution-grid-snake-dark.svg">
