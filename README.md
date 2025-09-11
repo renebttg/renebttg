@@ -18,7 +18,7 @@
 public class ReneBattaglia {
     
     private String name = "Rene Battaglia";
-    private String role = "Desenvolvedor Backend Java";
+    private String role = "Desenvolvedor Backend";
     private String location = "Brasil 🇧🇷";
     private String[] mainSkills = {
         "Spring Boot", "APIs RESTful", "Microserviços", 
