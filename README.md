@@ -53,11 +53,11 @@ public class ReneBattaglia {
 ```
 
 ### 💡 O que faço:
-- ⚙️ **Backend Development**: APIs RESTful robustas com Java e Spring Boot
-- 🏗️ **System Architecture**: Design de arquiteturas escaláveis e resilientes
-- 🔗 **System Integration**: Conectando sistemas legados com tecnologias modernas
-- 📊 **Data Engineering**: Pipeline de dados e processamento (quando necessário)
-- 🎯 **Problem Solving**: Transformando requisitos complexos em código limpo
+- ⚙️ **Backend Development**: APIs RESTful com Java, Spring Boot e outras tecnologias
+- 🏗️ **System Architecture**: Arquiteturas escaláveis e resilientes
+- 🔗 **System Integration**: Conexão entre sistemas legados e modernos
+- 📊 **Data Engineering**: Pipelines de dados e processamento
+- 🎯 **Problem Solving**: Transformo problemas complexos em soluções práticas
 
 ---
 
@@ -145,7 +145,7 @@ public class ReneBattaglia {
   <a href="https://www.linkedin.com/in/rene-battaglia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email-aqui@exemplo.com">
+  <a href="mailto:renebattaglia@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/renebttg">
@@ -162,8 +162,4 @@ public class ReneBattaglia {
 <div align="center">
   <h3>💙 Obrigado pela visita! 💙</h3>
   <p><i>Sempre aberto para colaborações interessantes e projetos desafiadores!</i></p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Vamos codar juntos!</b></em> 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
 </div>
