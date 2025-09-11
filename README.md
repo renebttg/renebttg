@@ -1,8 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+o+Rene+Battaglia!;Desenvolvedor+Back-End+%26+Engenheiro+de+Dados;Transformando+dados+em+solu%C3%A7%C3%B5es+inteligentes!" alt="Typing SVG" />
 
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <br/>
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+       width="40" 
+       style="margin-top: 25px;" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=renebttg&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
